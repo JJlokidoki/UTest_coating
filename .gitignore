@@ -1,0 +1,5 @@
+*.csv
+*.xls
+/venv/*
+/pypict/*
+/.idea/*
