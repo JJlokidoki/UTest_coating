@@ -4,7 +4,7 @@ import itertools
 ConfigParams = {
     "Model": ["vx805", "vx820"],
     "OS": ["Windows", "Linux", "DOS", "WINCE"],
-    "Interface": ["USB", "RS-232", "Ethernet"], # "Bluetooth"
+    "Interface": ["USB", "RS-232", "Ethernet"], # "Bluetooth" 1
     "Lib": ["SBRF.dll", "Pilot_nt", "Sb_pilot", "Gate.dll"]
 }
 
