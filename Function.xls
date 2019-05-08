@@ -1,0 +1,28 @@
+Конфигурации	Интерфейс	Show_Screen	OplataOtmenaVozvrat	Predavtorizacii	Spasibo	Valyuty	Skidki	Komissii/shtrafy	CHaevye_odnoj_tranzakciej	CHaevye_dvumya_tranzakciyami	PZH	noCVM_operacii	Monitoring	Loyal'nost'	Toplivnye_karty	Otdely	Operacii_bez_karty	Otchety	Operacii_s_ruchnym_vvodom	"Operacii_bez_pred""yavleniya_karty"	Sluzhebnye_operacii	Udalennaya_zagruzka	Negativnye_kejsy_UZ	Negativnye_kejsy_oplaty
+Windows_Vx805_RS-232	Gate.dll	-	-	-	+	-	+	+	+	+	-	+	+	+	-	-	-	+	-	+	-	+	-	+
+Linux_Vx805_USB	SB_pilot	+	+	+	-	+	-	-	-	-	+	-	-	-	+	+	+	-	-	-	+	-	+	-
+Linux_Vx805_Ethernet	SB_pilot	+	-	+	+	-	-	-	+	+	+	-	+	-	-	+	-	-	+	-	-	+	-	-
+Linux_Vx805_RS-232	SB_pilot	-	+	-	-	+	+	+	-	-	-	+	-	+	-	-	+	+	+	+	-	-	+	+
+Windows_Vx805_Ethernet	SBRF.dll	-	-	+	-	-	+	-	-	+	-	+	+	+	+	+	-	-	+	+	+	-	-	+
+Linux_Vx805_USB	SB_pilot	-	-	-	+	+	-	+	+	-	+	+	+	-	+	+	+	+	+	-	+	+	+	-
+Windows_Vx805_Ethernet	SBRF.dll	+	+	-	-	+	+	-	+	+	-	-	-	-	-	-	+	+	+	-	+	+	-	+
+		+	+	+	+	-	-	+	+	+	+	-	-	+	+	-	-	-	-	+	-	-	+	-
+Windows_Vx805_USB	SBRF.dll	-	+	+	+	+	-	-	-	-	+	-	+	-	-	+	-	+	+	+	-	+	-	+
+Windows_Vx805_RS-232	Gate.dll	+	-	-	+	-	-	+	+	-	-	+	-	+	+	-	+	-	+	-	-	+	+	-
+Windows_Vx805_USB	SBRF.dll	+	-	+	-	+	+	+	-	+	+	-	-	-	-	+	-	+	+	+	+	-	+	-
+WINCE_Vx805_USB	Gate.dll	-	-	-	-	-	-	+	+	-	+	-	+	+	+	-	-	-	-	-	-	+	+	-
+DOS_Vx805_RS-232	SB_pilot	-	+	+	+	+	+	-	-	+	-	+	-	-	-	+	+	+	+	+	+	-	-	+
+DOS_Vx805_Ethernet	SB_pilot	+	-	+	+	+	-	+	-	+	+	-	+	-	-	-	-	+	+	-	+	+	+	+
+Linux_Vx805_Ethernet	SB_pilot	+	+	-	-	-	+	-	-	-	+	+	-	+	+	+	+	-	-	+	-	-	-	-
+DOS_Vx805_RS-232	SB_pilot	+	-	-	+	+	+	+	+	-	-	+	-	+	-	-	-	-	+	-	-	-	-	+
+DOS_Vx805_Ethernet	SB_pilot	-	+	+	-	-	-	-	+	+	-	-	+	-	+	-	+	+	-	+	+	-	+	-
+Windows_Vx805_Ethernet	Gate.dll	+	+	-	-	-	-	+	+	-	-	+	-	-	-	+	-	+	+	+	-	+	+	-
+Windows_Vx805_RS-232	SBRF.dll	-	-	-	-	+	+	-	-	+	-	-	+	+	+	+	+	-	-	-	+	+	-	+
+Linux_Vx805_Ethernet	SB_pilot	-	-	+	+	+	+	+	+	+	-	+	+	-	+	-	+	-	+	+	-	-	+	-
+DOS_Vx805_Ethernet	SB_pilot	-	+	+	+	-	-	-	+	-	-	-	-	+	-	-	-	+	-	-	+	-	-	+
+Linux_Vx805_RS-232	SB_pilot																							
+DOS_Vx805_RS-232	SB_pilot																							
+Linux_Vx805_RS-232	SB_pilot																							
+Windows_Vx805_USB	Gate.dll																							
+WINCE_Vx805_USB	Gate.dll																							
+WINCE_Vx805_USB	Gate.dll																							

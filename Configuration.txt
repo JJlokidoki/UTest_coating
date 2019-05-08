@@ -1,0 +1,2 @@
+Configuration: Windows_Vx805_Ethernet, Windows_Vx805_USB, Windows_Vx805_RS-232, DOS_Vx805_Ethernet, DOS_Vx805_RS-232, Linux_Vx805_Ethernet, Linux_Vx805_USB, Linux_Vx805_RS-232, WINCE_Vx805_USB
+Interface: SBRF.dll, SB_pilot, Gate.dll, PILOT_NT.dll
